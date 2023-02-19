@@ -1,7 +1,7 @@
 package db
 
 import (
-	"code/domain/model"
+	"github.com/xals99/code/domain/model"
 	"fmt"
 )
 
