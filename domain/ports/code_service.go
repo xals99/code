@@ -1,6 +1,6 @@
 package ports
 
-import "code/domain/model"
+import "github.com/xals99/code/domain/model"
 
 type CodeService struct {
 	codeRepository CodeRepository

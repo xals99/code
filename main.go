@@ -1,10 +1,10 @@
 package main
 
 import (
-	"code/adapters/db"
-	"code/adapters/http"
-	"code/domain/model"
-	"code/domain/ports"
+	"github.com/xals99/code/adapters/db"
+	"github.com/xals99/code/adapters/http"
+	"github.com/xals99/code/domain/model"
+	"github.com/xals99/code/domain/ports"
 
 	"github.com/gin-gonic/gin"
 )

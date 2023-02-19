@@ -1,4 +1,4 @@
-module code
+module github.com/xals99/code
 
 go 1.20
 
